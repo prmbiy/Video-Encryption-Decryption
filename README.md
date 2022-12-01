@@ -1,1 +1,1 @@
-# real-time-video-encr-decr
+# Video-Encryption-Decryption
